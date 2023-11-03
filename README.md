@@ -1,4 +1,4 @@
-iccollaborativefiltering
+# music collaborativefiltering
 This repo features the code used to "Build a Spotify-like Music 
 Recommender System".
 
