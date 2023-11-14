@@ -1,6 +1,5 @@
 # music collaborativefiltering
 
-# Music Recommender System - README
 # Project Name
 Personalized Music Recommender System
 
