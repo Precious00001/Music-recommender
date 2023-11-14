@@ -25,6 +25,6 @@ poetry install
 We welcome contributions to the Music Recommender System project! If you'd like to contribute, please follow these guidelines:
 
 Fork the repository and create a new branch.
-Make your changes and ensure the code follows our coding standards.
+* Make your changes and ensure the code follows our coding standards.
 Submit a pull request, describing the changes and improvements made.
 
